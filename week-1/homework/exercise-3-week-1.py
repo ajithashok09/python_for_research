@@ -1,13 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  1 21:53:23 2020
-
-@author: leonardo
-"""
-
-# WEEK 1 - EX 3
-
 """
 
 Exercise 3
